@@ -1,0 +1,7 @@
+nocopyright 1
+outputtv /home/alan/iPlayer_Programs
+modes tvbest,radiobest
+outputradio /home/alan/iPlayer_Programs
+tag_podcast 1
+fps50 1
+subdir 1
